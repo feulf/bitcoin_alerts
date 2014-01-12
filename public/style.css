@@ -1,0 +1,13 @@
+body {
+    font-size: 14px;
+    font-family: Geneva;
+}
+
+textarea, input {
+    font-family: arial;
+    font-size:14px;
+    padding:2px;
+    width:200px;
+}
+textarea{padding:10px;}
+input[type=radio]{width:auto}

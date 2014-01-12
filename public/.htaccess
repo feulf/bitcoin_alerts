@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+php_flag apc.cache_by_default Off
+<IfModule mod_rewrite.c>
+    Options -MultiViews
+    RewriteEngine On
+
+	  RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>

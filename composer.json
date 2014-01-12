@@ -1,0 +1,12 @@
+{
+   "project" : "bitcoinalert",
+   "version" : "1",
+   "require" : {
+      "symfony/http-foundation": "v2.3.6",
+      "ircmaxell/password-compat": "1.0.3",
+      "rain/raintpl" : "master-dev",
+      "twilio/sdk": "dev-master",
+      "coinbase/coinbase" : "1.0.*"
+   }
+
+}
