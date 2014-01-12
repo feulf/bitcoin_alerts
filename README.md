@@ -12,7 +12,7 @@ Alert 900 call
 ```
 
 Bemoki also implements the functionalities to buy and sell Bitcoin at specific price using the Coinbase API. 
-This functionality is experimental and you should not run it with real money, also you should never upload the ``` COINBASE_API_KEY ``` online. *Never*.
+This functionality is experimental and you should not run it with real money, also you should never upload the ``` COINBASE_API_KEY ``` online. **Never**.
 
 
 If you want to get your first 0.1 Bitcoin you can open a Coinbase account with my referral URL and we'll both get $5 worth of Bitcoin:
